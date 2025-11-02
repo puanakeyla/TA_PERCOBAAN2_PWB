@@ -124,9 +124,6 @@ Tambahkan blok ini ke `projects.html` di dalam container proyek:
 ## Kontribusi
 Ini adalah proyek pribadi/tugas. Bila ingin kontribusi atau perbaikan (mis. optimasi mobile, aksesibilitas, atau deployment), silakan buat branch dan ajukan PR atau hubungi pemilik melalui email yang tertera di footer.
 
-## Lisensi
-Tambahkan lisensi jika ingin membagikan ulang (mis. MIT). Saat ini tidak ada file lisensi di repositori.
-
 ## Kontak
 - Email: puan.akeyla37@gmail.com
 - GitHub: https://github.com/puanakeyla
