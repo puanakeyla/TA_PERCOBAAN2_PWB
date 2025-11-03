@@ -40,17 +40,17 @@ Persyaratan singkat:
 - Editor teks (opsional): VS Code, Notepad++, dsb.
 - (Opsional) Python 3 atau Node.js jika ingin menjalankan server lokal dari terminal
 
-Metode A — Buka langsung (cara tercepat)
+Metode A Buka langsung (cara tercepat)
 - Buka File Explorer, menuju folder proyek, lalu klik dua kali `index.html`.
 - Kelebihan: sangat cepat; Kekurangan: beberapa fitur (fetch, routing relatif) mungkin tidak bekerja sempurna.
 
-Metode B — Live Server (VS Code) — Direkomendasikan untuk pengembangan
+Metode B Live Server (VS Code) — Direkomendasikan untuk pengembangan
 1. Buka folder proyek di VS Code.
 2. Install ekstensi "Live Server" (jika belum terpasang).
 3. Klik kanan `index.html` -> "Open with Live Server" atau klik tombol "Go Live" di pojok kanan bawah.
 4. Browser akan terbuka otomatis dan perubahan file akan ter-refresh secara real-time.
 
-Metode C — Python simple HTTP server (PowerShell)
+Metode C Python simple HTTP server (PowerShell)
 1. Buka PowerShell.
 2. Pindah ke direktori proyek:
 
