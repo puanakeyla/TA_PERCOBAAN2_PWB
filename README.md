@@ -33,7 +33,7 @@ Root:
 - `README.md` — (file ini)
 
 ## Instalasi
-Proyek ini adalah situs statis sederhana — tidak ada build step, package manager, atau server khusus yang diperlukan. Berikut beberapa cara yang mudah dan teruji untuk menjalankannya secara lokal.
+Proyek ini adalah situs statis sederhana tidak ada build step, package manager, atau server khusus yang diperlukan. Berikut beberapa cara yang mudah dan teruji untuk menjalankannya secara lokal.
 
 Persyaratan singkat:
 - Browser modern (Chrome, Firefox, Edge, Safari)
