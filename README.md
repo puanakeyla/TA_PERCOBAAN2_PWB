@@ -132,7 +132,6 @@ Ini adalah proyek pribadi/tugas. Bila ingin kontribusi atau perbaikan (mis. opti
 ---
 
 ## Preview (Visuals)
-Berikut dua gambar visual yang ada di folder `img/`. Jika Anda membuka `README.md` di GitHub atau viewer yang mendukung relative image paths, gambar akan tampil langsung.
 
 Graph overview:
 
