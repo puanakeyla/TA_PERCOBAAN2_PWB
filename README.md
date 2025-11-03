@@ -66,7 +66,7 @@ py -3 -m http.server 8000
 ```
 4. Buka http://localhost:8000 di browser.
 
-Metode D — Node (opsional)
+Metode D Node (opsional)
 1. Jika ada Node.js terpasang, pasang http-server sekali saja:
 
 ```powershell
